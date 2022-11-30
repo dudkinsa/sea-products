@@ -257,7 +257,7 @@ body{
 
 .header__content-box {
     display: flex;
-    margin-left: 100%;
+    justify-content: flex-end;
     margin-top: 30px;
     font-size: 18px;
     line-height: 21px;
