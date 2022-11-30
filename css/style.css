@@ -1,7 +1,7 @@
-@import "components/_header.css";
-@import "_overall.css";
-@import "components/_product.css";
-@import "components/_seafood-box.css";
-@import "components/_seafood.css";
-@import "components/_contacts.css";
-@import "components/_footer.css";
+@import url("components/_header.css");
+@import url("_overall.css");
+@import url("components/_product.css");
+@import url("components/_seafood-box.css");
+@import url("components/_seafood.css");
+@import url("components/_contacts.css");
+@import url("components/_footer.css");
